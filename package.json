@@ -1,6 +1,6 @@
 {
   "name": "html-to-xpath",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "HTML to Xpath is a module that converts an HTMLElement from visible DOM to Xpath",
   "main": "index.js",
   "scripts": {
