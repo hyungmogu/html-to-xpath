@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest index.test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyungmogu/html-to-xpath"
+  },
   "author": "Hyungmo Gu",
   "license": "MIT",
   "devDependencies": {
