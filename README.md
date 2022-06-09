@@ -8,7 +8,7 @@ This code functions under libraries like [jsdom](https://github.com/jsdom/jsdom)
 
 ```
 const htmlToXpath = require("html-to-xpath");
-const xpath = htmlToXpath(<HTMLElement>)
+const xpath = htmlToXpath(<HTMLElement>);
 ```
 
 ## Contributing
